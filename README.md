@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lufyful
+- 👋 Hi, My name is Manish Rawat.
+- 📚 I'm a 3rd Year Student at Maharshi Dayanand University.
 - 👀 I’m interested in learning new language.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on some web development projects.
